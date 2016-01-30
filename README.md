@@ -1,2 +1,1 @@
-# MyMeteor
-meteor中级教程
+# Meteor中级教程
